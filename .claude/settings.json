@@ -1,5 +1,7 @@
 {
+  "disableClaudeAiConnectors": true,
   "permissions": {
+    "defaultMode": "default",
     "deny": [
       "mcp__vercel__buy_pro",
       "mcp__vercel__buy_credits",
